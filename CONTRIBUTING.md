@@ -9,5 +9,6 @@ By participating, you are expected to uphold this code.
 
 ### Contributing
 If you want to contribute something you can open a "feature request" at the [Issues tab](https://github.com/Snocember/hello-world/issues).
+Or you can open a [pull request](https://github.com/Snocember/hello-world/pulls).
 
 *Thanks and have a nice day. (:*
