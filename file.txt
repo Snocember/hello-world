@@ -4,3 +4,5 @@ Why are you here?
 ...
 
 Really. Here's nothing.
+
+SAMPLE_SECRET = 12345
